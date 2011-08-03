@@ -1,0 +1,15 @@
+d2ad41dd5f37137422f30e24eb34f46b *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+c8aa0baec8c77dab34b7f4d25d3aeff2 *R/allelicOR.R
+198c08bfead5816feda1fba13161c770 *R/bimetals-internal.R
+6bce1a1402c798667f65b9384b4a4b87 *R/chisq.lytic.func.R
+a902cfb5ae247e5e4088dd2d15cd6c93 *R/chisq.setup.R
+321da8bb019fe66d360345deed526011 *R/chisq.sim.factory.R
+56575bc131517821d46b828159b51629 *R/dlambda.R
+937e34f45c633bf886cc2d7b67498db6 *R/is.legal.R
+5068d03b384ebd784b9af5783b00eb73 *R/rmultnom.R
+8d370291df40df31a85ce4949989d773 *R/trueOR.R
+51a7e2ce24db133110c5157b7cc0eedf *man/allelicOR.Rd
+fce1aa2c78aa73148cabd3f19330833b *man/bimetallic-internal.Rd
+c0ebf3b7c23e896a1d81a05c0b76ed22 *man/bimetallic-package.Rd
+d56003a8c7f7ae10c5b38ff3bbf49f19 *man/chisq.sim.factory.Rd
